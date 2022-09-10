@@ -16,6 +16,4 @@ In the pre-processing phase of this project I did the following actions:
 * Plot the output dataframe to see the changes.
 
 ## Classification using Neural Network
-In this project I trained a neural network using Keras library. To emphadize the effect of different variables of the neural network, it was trained step by step. You can see the steps in the following lines.
-* Neural network trained without any activation function. The result is very bas as expected.
-* 
+In this project I trained a neural network using Keras library. To emphadize the effect of different variables of the neural network, it was trained step by step. In the first steps I trained a neural network using no activation function and a linear activation function. The results are very bad as expected. After that trained the neural network with a relu activation function but with a bad learning rate. After finding the optimum learning rate I achieved a 97% accuracy on the fashion MNIST dataset.
