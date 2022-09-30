@@ -32,4 +32,5 @@ In this project, I implemented association rules exraction. The parameters of th
 * Support: Popularity of an item based on its frequency in the transactions.
 * Confidence: The confidence(A->B) is the likeliness of of occurence B when A already happened. 
 * Lift: Lift(A->B) controls for the support (frequency) of consequent while calculating the conditional probability of occurrence of {Y} given {X}.
+
 Using the [mlxtend library](https://github.com/rasbt/mlxtend) I employed the apriori algorithm for implementing association rules.
