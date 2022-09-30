@@ -1,10 +1,10 @@
 # Data-Mining-Algorithms-Applying
 In this repository I added some of my projects in which I applied data mining algorithms on some open source databases. The algorithms are listed below.
 
-* [Iris Dimentionality Reduction](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md)
-* [Classification with Neural Network](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md)
-* [Clustering Algorithms](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md)
-* [Association Rules](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md )
+* [Iris Dimentionality Reduction](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md#iris-dimentionality-reduction)
+* [Classification with Neural Network](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md#classification-using-neural-network)
+* [Clustering Algorithms](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md#clustering-algorithms)
+* [Association Rules](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md#association-rules)
 
 ## Iris Dimentionality Reduction
 The goal of this project was to apply some preprocessing tools on IRIS dataset and then reduce its dimention using PCA. 
